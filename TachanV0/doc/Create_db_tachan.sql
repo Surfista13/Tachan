@@ -1,0 +1,1 @@
+CREATE DATABASE tachan_db;
